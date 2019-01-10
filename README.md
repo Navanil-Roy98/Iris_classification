@@ -3,7 +3,6 @@
 
 1. Install numpy,pandas,matplotlib,scipy,scikit-learn
 2. Install django  
-
 1.
   Installing numpy,pandas,matplotlib,scipy,scikit-learn:-
   1. pip install numpy
@@ -11,8 +10,7 @@
   3. pip install matplotlib
   4. pip install scipy
   5. pip install scikit-learn
- 
- 2.
+2.
    Installing django
    1. pip install django
    2. Create a virtual environment(venv)
