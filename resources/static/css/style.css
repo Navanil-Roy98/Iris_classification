@@ -1,0 +1,20 @@
+body{
+    background: url("../../img/iris.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 1em;
+}
+
+h1{
+    color:purple;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    padding-bottom: 5px;
+    margin: 100px auto;
+    margin-bottom: 50px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 3em;
+}
+
