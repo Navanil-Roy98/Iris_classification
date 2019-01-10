@@ -14,6 +14,6 @@
 # Installing django
 # 1. pip install django
 # 2. Create a virtual environment(venv)     
-# 3. Activate the venv    venv\Scripts\activate
+# 3. Activate the venv    (venv\Scripts\activate)
 # 4. Run the server
 # 5. Try your inputs in local host
